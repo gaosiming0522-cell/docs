@@ -16,9 +16,7 @@
       },
       {
         "group": "资讯中心",
-        "pages": [
-          "blog/welcome"
-        ]
+        "pages": ["blog/welcome"]
       }
     ],
     "global": {
